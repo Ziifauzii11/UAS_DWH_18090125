@@ -1,1 +1,4 @@
-# UAS_DWH_18090125
+# UAS DWH
+Nama : Dwi Febi Fauzi
+NIM : 18090125
+Kelas : 5C
